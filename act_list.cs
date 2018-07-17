@@ -47,6 +47,7 @@ namespace product_plan
             dg_mat.Columns.Add("Total In", "Total In");
             dg_mat.Columns.Add("Total out", "Total out");
             dg_mat.Columns[0].Width = 60;
+            dg_mat.Columns[0].Width = 60;
             dg_mat.Columns[1].Width = 230;
             dg_mat.Columns[2].Width = 80;
             dg_mat.Columns[4].Width = 30;
